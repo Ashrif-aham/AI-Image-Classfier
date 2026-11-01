@@ -4,6 +4,13 @@ An **AI-powered Object Detection Web Application** built using **Python, Streaml
 
 Upload an image, adjust the confidence threshold, and let the YOLO26 Nano model identify objects through a simple and interactive web interface.
 
+### 1. Image Upload & Settings
+![Image Upload](https://github.com/Ashrif-aham/AI-Image-Classfier/blob/main/Image%201.png)
+
+### 2. Object Detection Results
+![Detection Results](https://github.com/Ashrif-aham/AI-Image-Classfier/blob/main/detected_objects.png)
+
+
 ## 🚀 Key Features
 
 - **Multiple Object Detection:** Detect multiple objects within a single image using YOLO26 Nano.
@@ -164,18 +171,13 @@ If you have suggestions, improvements, or feature requests, feel free to:
 3. Commit your changes.
 4. Submit a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-**Note:** Ultralytics models and software are subject to their respective licensing terms. Review the [Ultralytics Licensing](https://www.ultralytics.com/license) before using this project commercially.
-
 ## 🙏 Acknowledgements
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) – YOLO object detection models.
 - [Streamlit](https://streamlit.io/) – Interactive web application framework.
 - [Python](https://www.python.org/) – Programming language.
 - [Pandas](https://pandas.pydata.org/) – Data manipulation and analysis.
+  
 
 ## 👨‍💻 Author
 
